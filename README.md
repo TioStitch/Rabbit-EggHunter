@@ -4,4 +4,4 @@
 o projeto é muito simples, é feito para treinar as habilidades que estou desenvolvendo de GameDev.
 
 **PRINT DO PROJETO:**
-![image](https://imgur.com/A3VtAxj.png)
+<img src="https://imgur.com/A3VtAxj.gif"/>
